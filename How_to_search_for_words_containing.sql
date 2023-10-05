@@ -1,0 +1,2 @@
+select * from customers 
+where CustomerName like "%toys%";                             # THE LIKE OPERATOR IS USED WHEN TRYING TO FIND A WORD OR PHRASE IN WHOLE WORDS AND USE THE % AT THE BEGGING AND END OF THE PHRASE OR WORD IN QUESTION.
